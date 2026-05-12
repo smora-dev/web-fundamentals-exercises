@@ -1,0 +1,10 @@
+h1{
+    font-family: monospace;
+    color: rgb(255, 145, 0);
+}
+
+p{
+    color: rgb(57, 18, 230);
+    border: 1px;
+    border-style: solid;
+}
